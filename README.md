@@ -43,7 +43,7 @@ nav {
 nav .logo { font-weight: 700; font-size: 1.4rem; color: var(--blue); letter-spacing: -0.5px; }
 nav .menu { font-size: 1.2rem; cursor: pointer; color: var(--text); opacity: 0.7; }
 
-/* HERO */
+
 header {
   padding: 140px 24px 100px; text-align: center;
 }
@@ -79,7 +79,7 @@ header p {
   color: var(--muted); max-width: 600px; margin: 24px auto 0; font-size: 1.15rem; font-weight: 400;
 }
 
-/* BUTTONS */
+
 .cta { margin-top: 48px; display: flex; gap: 12px; justify-content: center; }
 
 .btn {
@@ -112,7 +112,7 @@ section h2 { text-align: center; font-size: 2rem; margin-bottom: 48px; letter-sp
 .card h3 { margin-top: 0; font-size: 1.25rem; }
 .card p { color: var(--muted); font-size: 1rem; margin-bottom: 0; }
 
-/* PRICING SPECIFIC */
+
 .card.pricing {
   text-align: center;
   max-width: 400px;
@@ -198,9 +198,9 @@ footer a { color: var(--blue); text-decoration: none; font-weight: 600; margin-l
     <h3>Starter Tier</h3>
     <div class="price-tag">$0<span>/forever</span></div>
     <ul style="list-style: none; padding: 0; margin: 24px 0; text-align: left; color: var(--muted);">
-      <li style="margin-bottom: 12px;">✓ Basic server-side ads</li>
-      <li style="margin-bottom: 12px;">✓ Community support access</li>
-      <li style="margin-bottom: 12px;">✓ Standard execution priority</li>
+      <li style="margin-bottom: 12px;">✓ Basic server-side </li>
+      <li style="margin-bottom: 12px;">✓ ultimate trolls </li>
+      <li style="margin-bottom: 12px;">✓ Next Gen LuaU execution</li>
     </ul>
     <a href="https://discord.gg/SJYQHbP7hq" target="_blank" class="btn primary" style="width: 100%;">Join the Discord</a>
   </div>
