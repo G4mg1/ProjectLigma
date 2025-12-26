@@ -28,7 +28,7 @@ body {
   line-height: 1.6;
 }
 
-/* NAVIGATION */
+
 nav {
   padding: 16px 5%;
   display: flex; justify-content: space-between; align-items: center;
@@ -66,7 +66,7 @@ header h1 {
   color: var(--blue);
 }
 
-/* THE CURVED LINE */
+
 .curve-under {
   position: absolute;
   left: 0;
@@ -132,7 +132,7 @@ section h2 { text-align: center; font-size: 2rem; margin-bottom: 48px; letter-sp
 }
 .comment strong { color: var(--text); font-style: normal; display: block; margin-bottom: 4px; font-size: 0.9rem; }
 
-/* FOOTER */
+
 footer { padding: 60px 24px; text-align: center; color: var(--muted); border-top: 1px solid var(--border); font-size: 0.9rem; }
 footer a { color: var(--blue); text-decoration: none; font-weight: 600; margin-left: 10px;}
 
