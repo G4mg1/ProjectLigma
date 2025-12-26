@@ -94,7 +94,7 @@ header p {
 .btn.secondary { background: transparent; color: var(--text); border: 1px solid var(--border); }
 .btn.secondary:hover { background: #f8fafc; border-color: #cbd5e1; }
 
-/* SECTIONS */
+
 section { padding: 100px 5%; max-width: 1200px; margin: auto; }
 section h2 { text-align: center; font-size: 2rem; margin-bottom: 48px; letter-spacing: -0.01em; }
 
@@ -122,7 +122,7 @@ section h2 { text-align: center; font-size: 2rem; margin-bottom: 48px; letter-sp
 .price-tag { font-size: 3rem; font-weight: 800; margin: 16px 0; }
 .price-tag span { font-size: 1rem; color: var(--muted); font-weight: 400; }
 
-/* REVIEWS */
+
 .comment { 
   background: var(--card-bg); 
   border-radius: 16px; 
@@ -136,7 +136,7 @@ section h2 { text-align: center; font-size: 2rem; margin-bottom: 48px; letter-sp
 footer { padding: 60px 24px; text-align: center; color: var(--muted); border-top: 1px solid var(--border); font-size: 0.9rem; }
 footer a { color: var(--blue); text-decoration: none; font-weight: 600; margin-left: 10px;}
 
-/* ANIMATION */
+
 @keyframes fadeIn { to { opacity: 1; transform: translateY(0); } }
 
 @media (max-width: 640px) {
